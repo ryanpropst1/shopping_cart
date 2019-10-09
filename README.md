@@ -6,7 +6,7 @@
 ### Create a simple interface You will have a few buttons on the screen,
 ### which will correspond to a few products (e.g. TV, Watch, Shoes, etc.).
 
-* You will also have a shopping cart on the screen. 
+You will also have a shopping cart on the screen. 
 
 * (It can look terrible, that's fine, although extra points for styling, also the points mean nothing).
 
